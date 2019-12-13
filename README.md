@@ -35,3 +35,23 @@ JSON_to_dataFrame_2 - test integrety of input file converting to dataframe
 test_DataFrame_to_Json - test integrety of dataframe to input file
 check_input_output - utility tool to check where problems arrise in the file
 ```
+
+## group demo video 
+```
+group video file = DataMiningProjectPresentationGroup1.mp4
+or view on youtube @ https://youtu.be/MAjUFCeC-zg
+```
+
+## lecture slides
+```
+Final Project.pdf
+```
+## rules of Yelp Challenge
+```
+Yelp_Dataset_Challenge_Round_13.pdf
+```
+
+## to view project 
+```
+Project.ipynb
+```
