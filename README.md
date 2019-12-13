@@ -1,5 +1,36 @@
-# Data_Mining_Group1
-Project based on Yelp data set
+# Group1 Yelp Data Mining
+## Team members
+* Chris Powell
+* Jacob Bostick
+* Donald Boles
+
+## Description of the project
+```
+For this project we hope to demonstrate statisticl analysis on the Yelp Data set demonstrating a clustering analysis to make a sugestions for opening a business in a geographical reagin. 
+```
+## Summary of the question(s) sought and the answers
+```
+Where should a person open a business based on these reviews in Yelp?
+```
+## Application of this knowledge
+```
+It was found that the most likely name of a business with a 5-star rating is ‘DDS’. This is a shorthand for doctor of dentistry in NV. It was also interesting that Food was found to be to top category in the area as well 
+```
+
+## Link to the video demonstration 
+```
+group video file = DataMiningProjectPresentationGroup1.mp4
+or view on youtube @ https://youtu.be/MAjUFCeC-zg
+```
+## Link to your final project paper
+```
+https://docs.google.com/document/d/18y1768c7Je7aRkrJ88qFMtYODIbfLHZKrNJHRxb4jbY/edit?ts=5db0eecc
+```
+
+## Lecture Slides
+```
+Final Project.pdf
+```
 
 ## Installing Dependancies
 ```
@@ -36,39 +67,6 @@ test_DataFrame_to_Json - test integrety of dataframe to input file
 check_input_output - utility tool to check where problems arrise in the file
 ```
 
-## Group1 Yelp Data Mining
-## Team members
-* Chris Powell
-* Jacob Bostick
-* Donald Boles
-
-## Description of the project
-```
-For this project we hope to demonstrate statisticl analysis on the Yelp Data set demonstrating a clustering analysis to make a sugestions for opening a business in a geographical reagin. 
-```
-## Summary of the question(s) sought and the answers
-```
-Where should a person open a business based on these reviews in Yelp?
-```
-## Application of this knowledge
-```
-It was found that the most likely name of a business with a 5-star rating is ‘DDS’. This is a shorthand for doctor of dentistry in NV. It was also interesting that Food was found to be to top category in the area as well 
-```
-
-## Link to the video demonstration 
-```
-group video file = DataMiningProjectPresentationGroup1.mp4
-or view on youtube @ https://youtu.be/MAjUFCeC-zg
-```
-## Link to your final project paper
-```
-https://docs.google.com/document/d/18y1768c7Je7aRkrJ88qFMtYODIbfLHZKrNJHRxb4jbY/edit?ts=5db0eecc
-```
-
-## Lecture Slides
-```
-Final Project.pdf
-```
 ## Rules Of Yelp Challenge
 ```
 Yelp_Dataset_Challenge_Round_13.pdf
