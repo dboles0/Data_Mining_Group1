@@ -5,9 +5,8 @@
 * Donald Boles
 
 ## Description of the project
-```
-For this project we hope to demonstrate statisticl analysis on the Yelp Data set demonstrating a clustering analysis to make a sugestions for opening a business in a geographical reagin. 
-```
+> For this project we hope to demonstrate statisticl analysis on the Yelp Data set demonstrating a clustering analysis to make a sugestions for opening a business in a geographical reagin. 
+
 ## Summary of the question(s) sought and the answers
 ```
 Where should a person open a business based on these reviews in Yelp?
