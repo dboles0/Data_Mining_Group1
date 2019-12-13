@@ -15,6 +15,23 @@ visualizing with geo data
 !{sys.executable} -m pip install plotly-geo
 !{sys.executable} -m pip install folium
 
-to install 
+installations for tree visualization
+conda install python-graphviz
+!{sys.executable} -m pip install pydotplus
 
+also if you are interested in code folding to manage code you can 
+add npextentions instructions at (https://github.com/ipython-contrib/jupyter_contrib_nbextensions/blob/master/README.md)
+
+```
+
+## Building the project 
+```
+after dependencies are installed runall 
+```
+
+## Unit tests
+```
+JSON_to_dataFrame_2 - test integrety of input file converting to dataframe
+test_DataFrame_to_Json - test integrety of dataframe to input file
+check_input_output - utility tool to check where problems arrise in the file
 ```
