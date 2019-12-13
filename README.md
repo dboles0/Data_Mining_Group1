@@ -51,7 +51,7 @@ Final Project.pdf
 Yelp_Dataset_Challenge_Round_13.pdf
 ```
 
-## to view project 
+## Project file
 ```
 Project.ipynb
 ```
