@@ -12,9 +12,8 @@
 Where should a person open a business based on these reviews in Yelp?
 ```
 ## Application of this knowledge
-```
-It was found that the most likely name of a business with a 5-star rating is ‘DDS’. This is a shorthand for doctor of dentistry in NV. It was also interesting that Food was found to be to top category in the area as well 
-```
+
+> It was found that the most likely name of a business with a 5-star rating is ‘DDS’. This is a shorthand for doctor of dentistry in NV. It was also interesting that Food was found to be to top category in the area as well 
 
 ## Link to the video demonstration 
 ```
