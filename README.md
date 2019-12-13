@@ -1,7 +1,7 @@
 # Data_Mining_Group1
 Project based on Yelp data set
 
-## Installing dependancies
+## Installing Dependancies
 ```
 plotly installation
 !{sys.executable} -m pip install plotly --upgrade
@@ -24,34 +24,34 @@ add npextentions instructions at (https://github.com/ipython-contrib/jupyter_con
 
 ```
 
-## Building the project 
+## Building The Project 
 ```
 after dependencies are installed runall 
 ```
 
-## Unit tests
+## Unit Tests
 ```
 JSON_to_dataFrame_2 - test integrety of input file converting to dataframe
 test_DataFrame_to_Json - test integrety of dataframe to input file
 check_input_output - utility tool to check where problems arrise in the file
 ```
 
-## group demo video 
+## Group Demo Video 
 ```
 group video file = DataMiningProjectPresentationGroup1.mp4
 or view on youtube @ https://youtu.be/MAjUFCeC-zg
 ```
 
-## lecture slides
+## Lecture Slides
 ```
 Final Project.pdf
 ```
-## rules of Yelp Challenge
+## Rules Of Yelp Challenge
 ```
 Yelp_Dataset_Challenge_Round_13.pdf
 ```
 
-## Project file
+## Project File
 ```
 Project.ipynb
 ```
